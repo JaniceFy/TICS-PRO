@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RegistrarClienteTest::testRegistrarCliente":4,"ClienteTest::testRegistrarCliente":4},"times":{"RegistrarClienteTest::testRegistrarCliente":4.101,"ClienteTest::testRegistrarCliente":0.039,"testCliente::testRegistrarCliente":0.02}}
